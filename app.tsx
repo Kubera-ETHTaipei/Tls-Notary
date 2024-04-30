@@ -6,7 +6,7 @@ import { Watch } from 'react-loader-spinner'
 
 const container = document.getElementById('root');
 const root = createRoot(container!);
-
+const Kub= 1;
 root.render(<App />);
 
 function App(): ReactElement {
